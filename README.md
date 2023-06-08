@@ -1,1 +1,1 @@
-OBB: update metrics (#7593)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
