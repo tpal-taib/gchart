@@ -1,1 +1,1 @@
-Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
+Add https://youtu.be/q7LwPoM7tSQ to guides/yolo-performance-metrics.md (#8114)
