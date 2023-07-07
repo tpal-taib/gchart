@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+Fix Multi-GPU resume bug (#7328)
