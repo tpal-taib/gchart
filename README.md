@@ -1,1 +1,1 @@
-ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
