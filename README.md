@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
