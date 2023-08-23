@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
