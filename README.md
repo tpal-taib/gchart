@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Rename model_id to model.id (#8447)
