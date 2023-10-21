@@ -1,1 +1,1 @@
-Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
+Explorer with LanceDB, Actions and Docs updates (#7487)
