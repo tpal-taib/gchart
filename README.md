@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
