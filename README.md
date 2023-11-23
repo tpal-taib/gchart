@@ -1,1 +1,1 @@
-Add TFLite Docs Integrations Page (#8522)
+Update neural-magic.md (#7347)
