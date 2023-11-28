@@ -1,1 +1,1 @@
-Update fraction arg to employ a random selection (#8234)
+Add quantization support to TensorFlow.js converter (#7008)
