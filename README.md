@@ -1,1 +1,1 @@
-Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
+Biometric Protection - Require TouchID / FaceID verification for switching browsing modes, locking tabs, unlocking tabs or accessing locked tabs
