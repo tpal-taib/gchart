@@ -1,1 +1,1 @@
-YAML reformat (#7669)
+docs: update view-results-in-terminal.md (#66)
