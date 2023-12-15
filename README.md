@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+ultralytics 8.0.232 OpenCV 4.9.0 readonly np.array fix (#7256)
