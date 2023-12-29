@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Fixed RTDETR GFLOPs bug (#7309)
