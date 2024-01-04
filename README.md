@@ -1,1 +1,1 @@
-Add TorchScript Docs Integrations Page (#8501)
+Update mkdocs.yml (#7693)
