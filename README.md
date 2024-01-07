@@ -1,1 +1,1 @@
-YOLOv8 INT8 TFLite Inference Example (#7317)
+Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
