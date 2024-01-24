@@ -1,1 +1,1 @@
-Add PR Summary step to Ultralytics Actions (#7675)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
