@@ -1,1 +1,1 @@
-Bounding Box to OBB conversion (#7572)
+ultralytics 8.1.2 scope HUB-SDK imports (#7596)
