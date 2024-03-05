@@ -1,1 +1,1 @@
-fix predict with class filter
+Add HUB-SDK Docs reference section (#7781)
