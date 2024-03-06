@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
