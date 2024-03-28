@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Update Docs Home and Neural Magic pages (#7243)
