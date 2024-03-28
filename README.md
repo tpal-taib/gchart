@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+OBB: Fix plot_images (#7592)
