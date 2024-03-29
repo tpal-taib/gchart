@@ -1,1 +1,1 @@
-YAML reformat (#7669)
+Update Docs Home and Neural Magic pages (#7243)
