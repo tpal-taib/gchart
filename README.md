@@ -1,1 +1,1 @@
-fix resume training
+Add horizontal Mosaic3 augmentation (#6898)
