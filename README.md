@@ -1,1 +1,1 @@
-ultralytics 8.0.231 use new pyproject.toml (#7185)
+Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
