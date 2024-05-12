@@ -1,1 +1,1 @@
-OBB Docs updates (#7568)
+fix yolo classify model loading error (#9196)
