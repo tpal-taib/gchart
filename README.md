@@ -1,1 +1,1 @@
-ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
