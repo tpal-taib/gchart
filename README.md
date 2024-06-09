@@ -1,1 +1,1 @@
-Add Non-Maximum Suppression (NMS) inplace flag (#8368)
+Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)
