@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Add instance segmentation and vision-eye mapping in Docs + Fix minor code bug in other real-world-projects (#6972)
