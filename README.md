@@ -1,1 +1,1 @@
-Add yolo_bbox2segment docs reference (#7751)
+ultralytics 8.1.12 new Results.show() and Results.save() (#8166)
