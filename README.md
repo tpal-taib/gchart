@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+OBB: Fix when training on zip data (#8680)
