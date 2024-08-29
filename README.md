@@ -1,1 +1,1 @@
-ultralytics 8.1.22 HUB model pathlib fix (#8621)
+ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
