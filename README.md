@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Add NCNN Docs Integrations Page (#8562)
