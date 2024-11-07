@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+Fix device counting method to account for double-digit device IDs (#8502)
